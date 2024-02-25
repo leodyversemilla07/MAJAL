@@ -1,0 +1,17 @@
+# requirements.txt
+
+# TensorFlow for deep learning
+tensorflow==2.8.0
+
+# Additional libraries commonly used in AI projects
+numpy==1.21.0            # Numerical operations and array manipulation
+pandas==1.3.3            # Data manipulation and analysis
+scikit-learn==0.24.2      # Machine learning algorithms and tools
+matplotlib==3.4.3        # Plotting and visualization
+seaborn==0.11.2           # Statistical data visualization
+requests==2.26.0          # HTTP library for making requests
+
+# Optional libraries (add if needed)
+# Flask==2.1.1             # Web framework for RESTful API (for deployment)
+# docker==5.0.3            # Python API for Docker (for containerization)
+# sphinx==4.2.0            # Documentation generator
